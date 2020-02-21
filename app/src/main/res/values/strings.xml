@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationForAndroid</string>
+    <string name="button">Button</string>
+    <string name="replylevel">this is remote replylebel</string>
+</resources>
